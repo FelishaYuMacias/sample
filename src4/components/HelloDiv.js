@@ -4,7 +4,10 @@ import React from "react";
 function HelloDiv() {
   return (
     <div className="hellodiv">
-      <h1>Hello my name is Felisha</h1>
+      <h1>Hello</h1>
+      <h2>My name is Felisha</h2>
+      <p>I love dogs</p>
+      <img src="https://place-puppy.com/300x300" alt="cute puppy" />
     </div>
     );
 }
